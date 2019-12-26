@@ -2,7 +2,7 @@
 AWS Glacier
 
 Contributors: (this should be a list of wordpress.org userid's)
-Donate link: http://www.complextechweb.com/custom-wp-plugins/
+
 Tags: aws, amazon, glacier, archive, backup
 Requires at least: 3.0.1
 Tested up to: 3.5.2
